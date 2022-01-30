@@ -1,1 +1,1 @@
-#ReactJS TypeScript Snake Game
+# ReactJS TypeScript Snake Game
